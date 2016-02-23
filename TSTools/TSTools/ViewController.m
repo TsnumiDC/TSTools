@@ -9,7 +9,6 @@
 #import "ViewController.h"
 #import "UIImage+Common.h"
 #import "UIButton+Submitting.h"
-#import "UIImage+RoundedCorner.h"
 @interface ViewController ()
 @property (strong, nonatomic) UIButton *btn;
 
